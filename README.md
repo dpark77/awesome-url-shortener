@@ -37,6 +37,8 @@
 * [tinu.be](https://tinu.be)
 * [Tiny URL](https://tiny.cc)
 * [T.LY](https://t.ly)
+* [tuney.kr](https://tuney.kr) - Korean URL shortener
+* [tny.kr](https://tny.kr) - Free brandable URL shortener
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [v.gd](https://v.gd)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
